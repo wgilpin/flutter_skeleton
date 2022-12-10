@@ -7,5 +7,6 @@ A new Flutter project, with Getx, Firebase
 This project is a starting point for a Flutter application.
 
 Run `flutter pub get`
-Run `firebase init`
+
+Run `firebase init` and select options for this project
 
